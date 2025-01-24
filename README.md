@@ -1,4 +1,4 @@
-👋 Hi, I'm KULDEEP – **Data Scientist** | **Machine Learning Practitioner** | **Generative AI & RAG Enthusiast**
+👋 Hi, I'm KULDEEP – **Data Scientist** | **Machine Learning Practitioner** 
 
 I’m a Data Scientist with 2 years of experience specializing in machine learning models, and Generative AI applications. 
 
